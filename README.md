@@ -1,3 +1,3 @@
 ### PUC Canvas - Custom CSS
 
-I use stylebot with my custom CSS to enable a scuffed Dark Mode on Canvas Infrastructure.
+Custom CSS used to apply a scuffed dark mode in Canvas Infrastructure platform.
