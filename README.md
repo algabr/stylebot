@@ -1,3 +1,1 @@
-### PUC Canvas - Custom CSS
-
-Custom CSS used to apply a scuffed dark mode in Canvas by Instructure platform.
+simple and not so scuffed css for canvas, it works well enough 4me.
