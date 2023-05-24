@@ -2,7 +2,9 @@
 
 
 /*------------------------------------*/
-
+div.quiz_comment{
+  background-image: none !important;
+}
 * {
   font-family: Inter;
   color: white;
