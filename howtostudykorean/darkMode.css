@@ -1,0 +1,9 @@
+* {
+  background-color: black;
+  color: whitesmoke;
+  border: none;
+}
+[class*="customify-grid-"] > [class*="customify-col-9"], [class*="customify-grid_"] > [class*="customify-col-9"], [class~="customify-grid"] > [class*="customify-col-9"] {
+ flex-basis: 100%;
+ max-width: 100%;
+}

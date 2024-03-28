@@ -1,0 +1,21 @@
+body {
+  flex-basis: 100%;
+  max-width: 100%;
+}
+
+div.m-header,
+div.merchants__controls,
+button.button.merchant-grid-compact__button,
+a.merchant-grid-compact__submit-location,
+div.mt-1:nth-of-type(2),
+h5:nth-of-type(2),
+div.mt-1:nth-of-type(3),
+h5:nth-of-type(3),
+.mt-3.future-merchants-grid__title,
+thead {
+  display: none;
+}
+
+* {
+  background-color: black !important;
+}

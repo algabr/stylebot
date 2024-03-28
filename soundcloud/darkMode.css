@@ -1,0 +1,13 @@
+div.playbackTimeline__progressBar {
+  background-color: darkorange !important; 
+ }
+ 
+ a, button  {
+   color: darkorange;
+ }
+ 
+ * { 
+  background-color: #080808;
+  color: whitesmoke;
+  border: none;
+ }
